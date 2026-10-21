@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+    font-family: Times New Roman;
+    color: white;
+
+}
+.profile.card{
+    background-color: #fffdfd;
+    width: 300px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.4);
+    color: black;
+    text-align: center;
+}
+.profile.card img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+
+}
